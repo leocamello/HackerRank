@@ -1,4 +1,4 @@
-# HackerRank.CSharp
+# HackerRank
 ---
 
-HackerRank Problems' Solutions (C#)
+HackerRank Problems' Solutions

@@ -6,9 +6,9 @@ class Solution
     {
         string[] LS1S2 = Console.ReadLine().Split(' ');
 
-        int L = Convert.ToInt32(LS1S2[0]);
-        int S1 = Convert.ToInt32(LS1S2[1]);
-        int S2 = Convert.ToInt32(LS1S2[2]);
+        double L = Convert.ToDouble(LS1S2[0]);
+        double S1 = Convert.ToDouble(LS1S2[1]);
+        double S2 = Convert.ToDouble(LS1S2[2]);
 
         double RS = Math.Abs(S1 - S2);
 
@@ -18,7 +18,7 @@ class Solution
 
         for (int i = 0; i < Q; i++)
         {
-            int q = Convert.ToInt32(Console.ReadLine());
+            double q = Convert.ToDouble(Console.ReadLine());
 
             double d = Math.Sqrt(q + q);
 

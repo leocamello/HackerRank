@@ -1,4 +1,6 @@
-# HackerRank
----
+HackerRank
+==========
+### HackerRank Problems' Solutions
 
-HackerRank Problems' Solutions
+| Title | Domain | Subdomain | Solution | Difficulty |
+| ----- | ------ | --------- | -------- | ---------- |

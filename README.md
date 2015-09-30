@@ -8,7 +8,18 @@ HackerRank
 | Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles) | [C#](./Domains/Mathematics/Fundamentals/SherlockAndMovingTiles/SherlockAndMovingTiles.CSharp/Program.cpp) | Easy |
 | Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Find Point](https://www.hackerrank.com/challenges/find-point) | [C#](./Domains/Mathematics/Fundamentals/FindPoint/FindPoint.CSharp/Program.cpp) | Easy |
 | Algorithms | [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first) | [C#](./Domains/Algorithms/Warmup/SolveMeFirst/SolveMeFirst.CSharp/Program.cs) | Easy |
+| Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) | [C++]() | Easy |
+| Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | [C++]() | Easy |
+| Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [C++]() | Easy |
+| Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | [C++]() | Easy |
 | Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Handshake](https://www.hackerrank.com/challenges/handshake) | [C++](./Domains/Mathematics/Fundamentals/Handshake/Handshake.CPlusPlus/Source.cpp) | Easy |
+| Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Minimun Draws](https://www.hackerrank.com/challenges/minimum-draws) | [C++]() | Easy |
+| Algorithms | [Bit Manipulation](https://www.hackerrank.com/domains/algorithms/bit-manipulation) | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) | [C++]() | Easy |
+| Mathematics | [Number Theory](https://www.hackerrank.com/domains/mathematics/number-theory) | [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd) | [C++]() | Easy |
+| Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Sherlock and the Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | [C++]() | Easy |
+| Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) | [C++]() | Easy |
+| Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Halloween Party](https://www.hackerrank.com/challenges/halloween-party) | [C++]() | Easy |
+| Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | [C++]() | Easy |
 | Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) | [C++]() | Easy |
 | Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) | [C++]() | Moderate |
 | Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) | [C++]() | Moderate |
@@ -27,7 +38,5 @@ HackerRank
 | Algorithms | [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first) | [C++](./Domains/Algorithms/Warmup/SolveMeFirst/SolveMeFirst.CPlusPlus/main.cpp) | Easy |
 | Linux Shell | [Bash](https://www.hackerrank.com/domains/shell/bash) | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo) | [BASH]() | Easy |
 | Algorithms | [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) | [Solve me Second](https://www.hackerrank.com/challenges/solve-me-second) | [C](./Domains/Algorithms/Warmup/SolveMeSecond/SolveMeSecond.C/main.c) | Easy |
-| Algorithms | [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting) | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | [C#](./Domains/Algorithms/Sorting/InsertionSort.Part2/InsertionSort.Part2.CPlusPlus/main.cpp) | Easy |
-| Algorithms | [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting) | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | [C#](./Domains/Algorithms/Sorting/InsertionSort.Part1/InsertionSort.Part1.CPlusPlus/main.cpp) | Easy |
-
-|  | []() | []() | [C++]() | Easy |
+| Algorithms | [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting) | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | [C++](./Domains/Algorithms/Sorting/InsertionSort.Part2/InsertionSort.Part2.CPlusPlus/main.cpp) | Easy |
+| Algorithms | [Sorting](https://www.hackerrank.com/domains/algorithms/arrays-and-sorting) | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | [C++](./Domains/Algorithms/Sorting/InsertionSort.Part1/InsertionSort.Part1.CPlusPlus/main.cpp) | Easy |

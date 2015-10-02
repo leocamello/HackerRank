@@ -4,9 +4,9 @@ HackerRank
 
 | Domain | Subdomain | Title | Solution | Difficulty |
 | ------ | --------- | ----- | -------- | ---------- |
-| Mathematics | [Geometry](https://www.hackerrank.com/domains/mathematics/geometry) | [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | [C#](./Domains/Mathematics/Geometry/RectangularGame/RectangularGame.CSharp) | Easy |
-| Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles) | [C#](./Domains/Mathematics/Fundamentals/SherlockAndMovingTiles/SherlockAndMovingTiles.CSharp/Program.cpp) | Easy |
-| Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Find Point](https://www.hackerrank.com/challenges/find-point) | [C#](./Domains/Mathematics/Fundamentals/FindPoint/FindPoint.CSharp/Program.cpp) | Easy |
+| Mathematics | [Geometry](https://www.hackerrank.com/domains/mathematics/geometry) | [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | [C#](./Domains/Mathematics/Geometry/RectangularGame/RectangularGame.CSharp/Program.cs) | Easy |
+| Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles) | [C#](./Domains/Mathematics/Fundamentals/SherlockAndMovingTiles/SherlockAndMovingTiles.CSharp/Program.cs) | Easy |
+| Mathematics | [Fundamentals](https://www.hackerrank.com/domains/mathematics/fundamentals) | [Find Point](https://www.hackerrank.com/challenges/find-point) | [C#](./Domains/Mathematics/Fundamentals/FindPoint/FindPoint.CSharp/Program.cs) | Easy |
 | Algorithms | [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) | [Solve me First](https://www.hackerrank.com/challenges/solve-me-first) | [C#](./Domains/Algorithms/Warmup/SolveMeFirst/SolveMeFirst.CSharp/Program.cs) | Easy |
 | Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) | [C++]() | Easy |
 | Algorithms | [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | [C++]() | Easy |

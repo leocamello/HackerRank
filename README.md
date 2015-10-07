@@ -1,5 +1,5 @@
 # HackerRank
-==========
+
 ## HackerRank Problems' Solutions
 
 ### Algorithms

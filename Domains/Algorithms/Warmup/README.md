@@ -1,6 +1,4 @@
-# Algorithms
-
-##Warmup
+# Algorithms - Warmup
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |

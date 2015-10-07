@@ -1,5 +1,4 @@
-# Mathematics/Geometry
-==========
+# Mathematics - Geometry
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |

@@ -1,5 +1,4 @@
-# Algorithms/Bit Manipulation
-==========
+# Algorithms - Bit Manipulation
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |

@@ -1,5 +1,4 @@
-# Algorithms/Implementation
-==========
+# Algorithms - Implementation
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |

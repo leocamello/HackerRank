@@ -1,5 +1,4 @@
-# Mathematics/Fundamentals
-==========
+# Mathematics - Fundamentals
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |

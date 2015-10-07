@@ -1,5 +1,4 @@
-# Algorithms/Sorting
-==========
+# Algorithms - Sorting
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |

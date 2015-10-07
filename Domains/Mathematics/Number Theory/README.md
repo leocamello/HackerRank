@@ -1,4 +1,4 @@
-# Mathematics/Number Theory
+# Mathematics - Number Theory
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |

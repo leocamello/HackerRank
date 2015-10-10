@@ -13,3 +13,8 @@ HackerRank Problems' Solutions
 - [Fundamentals](./Domains/Mathematics/Fundamentals/README.md)
 - [Number Theory](./Domains/Mathematics/Number%20Theory/README.md)
 - [Geometry](./Domains/Mathematics/Geometry/README.md)
+ 
+### Ruby
+
+- [Introduction](./Domains/Ruby/Introduction/README.md)
+

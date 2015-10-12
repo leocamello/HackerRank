@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Array - Selection](https://www.hackerrank.com/challenges/ruby-array-selection) | [Ruby](./Array/Selection/main.rb) | Easy |
 | [Array - Deletion](https://www.hackerrank.com/challenges/ruby-array-deletion) | [Ruby](./Array/Deletion/main.rb) | Easy |
 | [Array - Addition](https://www.hackerrank.com/challenges/ruby-array-addition) | [Ruby](./Array/Addition/main.rb) | Easy |
 | [Array - Index, Part 2](https://www.hackerrank.com/challenges/ruby-array-index-ii) | [Ruby](./Array/Index,%20Part%202/main.rb) | Easy |

@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Hash - Addition, Deletion, Selection](https://www.hackerrank.com/challenges/ruby-hash-add-del-sel) | [Ruby](./Hash/Addition,%20Deletion,%20Selection/main.rb) | Easy |
 | [Hash - Each](https://www.hackerrank.com/challenges/ruby-hash-method-each) | [Ruby](./Hash/Each/main.rb) | Easy |
 | [Hash - Initialization](https://www.hackerrank.com/challenges/ruby-hash-initialization) | [Ruby](./Hash/Initialization/main.rb) | Easy |
 | [Array - Selection](https://www.hackerrank.com/challenges/ruby-array-selection) | [Ruby](./Array/Selection/main.rb) | Easy |

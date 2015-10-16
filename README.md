@@ -20,3 +20,4 @@ HackerRank Problems' Solutions
 - [Control Structures](./Domains/Ruby/Control%20Structures/README.md)
 - [Arrays & Hashes](./Domains/Ruby/Arrays%20%26%20Hashes/README.md)
 - [Enumerables](./Domains/Ruby/Enumerables/README.md)
+- [Methods](./Domains/Ruby/Methods/README.md)

@@ -3,10 +3,10 @@
 #include <math.h>
 #include <stdlib.h>
 
-
 int solveMeSecond(int a, int b) {
 	return a + b;
 }
+
 int main() {
 	int t, i;
 	scanf("%d", &t);

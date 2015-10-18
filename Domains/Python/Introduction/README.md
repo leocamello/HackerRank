@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Loops](https://www.hackerrank.com/challenges/python-loops) | [Python](./Loops/main.py) | Easy |
 | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes) | [Python](./Integers%20Come%20In%20All%20Sizes/main.py) | Easy |
 | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power) | [Python](./Power%20-%20Mod%20Power/main.py) | Easy |
 | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod) | [Python](./Mod%20Divmod/main.py) | Easy |

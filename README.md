@@ -14,6 +14,9 @@ HackerRank Problems' Solutions
 - [Number Theory](./Domains/Mathematics/Number%20Theory/README.md)
 - [Geometry](./Domains/Mathematics/Geometry/README.md)
 
+### Python
+- [Introduction](./Domains/Python/Introduction/README.md)
+
 ### Ruby
 
 - [Introduction](./Domains/Ruby/Introduction/README.md)

@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power) | [Python](./Power%20-%20Mod%20Power/main.py) | Easy |
 | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod) | [Python](./Mod%20Divmod/main.py) | Easy |
 | [Division](https://www.hackerrank.com/challenges/python-division) | [Python](./Division/main.py) | Easy |
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Python](./Arithmetic%20Operators/main.py) | Easy |

@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Interchange two numbers](https://www.hackerrank.com/challenges/interchange-two-numbers) | [Python](./Interchange%20two%20numbers/main.py) | Easy |
 | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name) | [Python](./What's%20Your%20Name/main.py) | Easy |
 | [Loops](https://www.hackerrank.com/challenges/python-loops) | [Python](./Loops/main.py) | Easy |
 | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes) | [Python](./Integers%20Come%20In%20All%20Sizes/main.py) | Easy |

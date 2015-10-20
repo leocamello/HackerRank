@@ -16,6 +16,7 @@ HackerRank Problems' Solutions
 
 ### Python
 - [Introduction](./Domains/Python/Introduction/README.md)
+- [Data Types](./Domains/Python/Data%20Types/README.md)
 
 ### Ruby
 

@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) | [Python](./Text%20Alignment/main.py) | Easy |
 | [String Validators](https://www.hackerrank.com/challenges/string-validators) | [Python](./String%20Validators/main.py) | Easy |
 | [Find a string](https://www.hackerrank.com/challenges/find-a-string) | [Python](./Find%20a%20string/main.py) | Easy |
 | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | [Python](./Mutations/main.py) | Easy |

@@ -1,14 +1,11 @@
-S = raw_input()
-s = raw_input()
+string = raw_input()
+substring = raw_input()
 
-i = 0
 count = 0
-while i < len(S) - len(s):
-    j = S[i:].find(s)
-    if j > 0:
+
+for begin in range(len(string)):
+    end = begin + len(substring)
+    if string[begin:end] == substring:
         count += 1
-        i += j + 1
-    else:
-        pass
 
 print count

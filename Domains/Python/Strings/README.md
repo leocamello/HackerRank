@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | [Python](./Designer%20Door%20Mat/main.py) | Easy |
 | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | [Python](./Text%20Wrap/main.py) | Easy |
 | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) | [Python](./Text%20Alignment/main.py) | Easy |
 | [String Validators](https://www.hackerrank.com/challenges/string-validators) | [Python](./String%20Validators/main.py) | Easy |

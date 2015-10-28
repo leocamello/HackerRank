@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) | [Python](./Set%20Mutations/main.py) | Easy |
 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | [Python](./Set%20.symmetric_difference()%20Operation/main.py) | Easy |
 | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) | [Python](./Set%20.difference()%20Operation/main.py) | Easy |
 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) | [Python](./Set%20.intersection()%20Operation/main.py) | Easy |

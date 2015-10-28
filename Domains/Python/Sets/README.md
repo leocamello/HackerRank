@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) | [Python](./Set%20.difference()%20Operation/main.py) | Easy |
 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) | [Python](./Set%20.intersection()%20Operation/main.py) | Easy |
 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union) | [Python](./Set%20.union()%20Operation/main.py) | Easy |
 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | [Python](./Set%20.discard(),%20.remove()%20&%20.pop()/main.py) | Easy |

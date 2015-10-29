@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Check Subset](https://www.hackerrank.com/challenges/py-check-subset) | [Python](./Check%20Subset/main.py) | Easy |
 | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room) | [Python](./The%20Captain's%20Room/main.py) | Easy |
 | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) | [Python](./Set%20Mutations/main.py) | Easy |
 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | [Python](./Set%20.symmetric_difference()%20Operation/main.py) | Easy |

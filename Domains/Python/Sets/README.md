@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset) | [Python](./Check%20Strict%20Superset/main.py) | Easy |
 | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset) | [Python](./Check%20Subset/main.py) | Easy |
 | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room) | [Python](./The%20Captain's%20Room/main.py) | Easy |
 | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) | [Python](./Set%20Mutations/main.py) | Easy |

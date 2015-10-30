@@ -21,6 +21,7 @@ HackerRank Problems' Solutions
 - [Containers](./Domains/Python/Containers/README.md)
 - [Sets](./Domains/Python/Sets/README.md)
 - [Math](./Domains/Python/Math/README.md)
+- [Itertools](./Domains/Python/Itertools/README.md)
 
 ### Ruby
 

@@ -20,6 +20,7 @@ HackerRank Problems' Solutions
 - [Strings](./Domains/Python/Strings/README.md)
 - [Containers](./Domains/Python/Containers/README.md)
 - [Sets](./Domains/Python/Sets/README.md)
+- [Sets](./Domains/Python/Math/README.md)
 
 ### Ruby
 

@@ -22,6 +22,7 @@ HackerRank Problems' Solutions
 - [Sets](./Domains/Python/Sets/README.md)
 - [Math](./Domains/Python/Math/README.md)
 - [Itertools](./Domains/Python/Itertools/README.md)
+- [Collections](./Domains/Python/Collections/README.md)
 
 ### Ruby
 

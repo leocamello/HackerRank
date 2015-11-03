@@ -1,9 +1,6 @@
-#include <iostream>
-
-using namespace std;
+#include <cstdio>
 
 int main() {
-    cout << "Hello, World!";
-    
+    printf("Hello, World!");
     return 0;
 }

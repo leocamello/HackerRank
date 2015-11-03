@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | [C++](./Functions/main.cpp) | Easy |
 | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop) | [C++](./For%20Loop/main.cpp) | Easy |
 | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | [C++](./Conditional%20Statements/main.cpp) | Easy |
 | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types) | [C++](./Basic%20Data%20Types/main.cpp) | Easy |

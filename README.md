@@ -35,3 +35,7 @@ HackerRank Problems' Solutions
 - [Arrays & Hashes](./Domains/Ruby/Arrays%20%26%20Hashes/README.md)
 - [Enumerables](./Domains/Ruby/Enumerables/README.md)
 - [Methods](./Domains/Ruby/Methods/README.md)
+
+### C++
+
+- [Introduction](./Domains/C++/Introduction/README.md)

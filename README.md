@@ -26,6 +26,7 @@ HackerRank Problems' Solutions
 - [Date and Time](./Domains/Python/Date%20and%20Time/README.md)
 - [Built-Ins](./Domains/Python/Built-Ins/README.md)
 - [Errors and Exceptions](./Domains/Python/Errors and Exceptions/README.md)
+- [Classes](./Domains/Python/Classes/README.md)
 
 ### Ruby
 

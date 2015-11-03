@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | [C++](./Arrays%20Introduction/main.cpp) | Easy |
 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | [C++](./Pointer/main.cpp) | Easy |
 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | [C++](./Functions/main.cpp) | Easy |
 | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop) | [C++](./For%20Loop/main.cpp) | Easy |

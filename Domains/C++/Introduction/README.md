@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop) | [C++](./For%20Loop/main.cpp) | Easy |
 | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | [C++](./Conditional%20Statements/main.cpp) | Easy |
 | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types) | [C++](./Basic%20Data%20Types/main.cpp) | Easy |
 | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output) | [C++](./Input%20and%20Output/main.cpp) | Easy |

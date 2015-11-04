@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading) | [C++](./Operator%20Overloading/main.cpp) | Moderate |
 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | [C++](./Arrays%20Introduction/main.cpp) | Easy |
 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | [C++](./Pointer/main.cpp) | Easy |
 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | [C++](./Functions/main.cpp) | Easy |

@@ -39,3 +39,4 @@ HackerRank Problems' Solutions
 ### C++
 
 - [Introduction](./Domains/C++/Introduction/README.md)
+- [Strings](./Domains/C++/Strings/README.md)

@@ -2,6 +2,8 @@ class LRUCache : Cache {
     public:
     LRUCache(int capacity) {
         cp = capacity;
+        head = NULL;
+        tail = NULL;
     }
 
     void set(int key, int value) {
@@ -11,26 +13,34 @@ class LRUCache : Cache {
             node->value = value;
         }
         else {
-            if (mp.size() == cp) {
-                it = mp.find(tail->key);
-                tail = tail->prev;
-                tail->next = NULL;
-                mp.erase(it);
-            }
+            if (cp > 0) {
+                if (mp.size() == cp) {
+                    it = mp.find(tail->key);
+                    if (head == tail) {
+                        head = NULL;
+                        tail = NULL;
+                    }
+                    else {
+                        tail = tail->prev;
+                        tail->next = NULL;
+                    }
+                    delete it->second;
+                    mp.erase(it);
+                }
 
-            Node* node = new Node(key, value);
-            node->prev = NULL;
-            if (mp.size() > 0) {
-                node->next = head;
-                head->prev = node;
-            }
-            else {
-                node->next = NULL;
-                tail = node;
-            }
-            head = node;
+                Node* node = new Node(key, value);
+                mp[key] = node;
 
-            mp[key] = node;
+                if (head == NULL && tail == NULL) {
+                    tail = node;
+                }
+                else {
+                    head->prev = node;
+                    node->next = head;
+                }
+
+                head = node;
+            }
         }
     }
 
@@ -49,6 +59,7 @@ class LRUCache : Cache {
                 }
                 node->next = head;
                 node->prev = NULL;
+                head->prev = node;
                 head = node;
             }
             return node->value;

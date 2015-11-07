@@ -1,10 +1,7 @@
-#include <cmath>
-#include <cstdio>
 #include <vector>
 #include <iostream>
-#include <algorithm>
-using namespace std;
 
+using namespace std;
 
 int main() {
     int N;
@@ -20,7 +17,7 @@ int main() {
     int x;
     cin >> x;
     v.erase(v.begin() + x - 1);
-    
+
     int a, b;
     cin >> a >> b;
     v.erase(v.begin() + a - 1, v.begin() + b - 1);

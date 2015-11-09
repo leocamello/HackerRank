@@ -22,7 +22,7 @@ class Isosceles : public Triangle {
 
 int main() {
     Isosceles isc;
-    
+
     isc.isosceles();
     isc.description();
     isc.triangle();

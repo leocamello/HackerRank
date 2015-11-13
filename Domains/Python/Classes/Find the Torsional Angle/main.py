@@ -7,13 +7,13 @@ class Vector3:
     def __sub__(self, other):
         return Vector3(self.X - other.X, self.Y - other.Y, self.Z - other.Z)
 
-    def dot(one, other):
-        return one.X * other.X + one.Y * other.Y + one.Z * other.Z
+    def dot(self, other):
+        return self.X * other.X + self.Y * other.Y + self.Z * other.Z
 
-    def cross(one, other):
-        X = one.Y * other.Z - one.Z * other.Y
-        Y = one.Z * other.X - one.X * other.Z
-        Z = one.X * other.Y - one.Y * other.X
+    def cross(self, other):
+        X = self.Y * other.Z - self.Z * other.Y
+        Y = self.Z * other.X - self.X * other.Z
+        Z = self.X * other.Y - self.Y * other.X
         return Vector3(X, Y, Z)
 
     def norm(self):
@@ -22,25 +22,13 @@ class Vector3:
     def angle(one, other):
         return math.degrees(math.acos(Vector3.dot(one, other) / (Vector3.norm(one) * Vector3.norm(other))))
 
-i, j, k = map(float, input().split())
-A = Vector3(i, j, k)
+coords = list()
+for i in range(0, 4):
+    coords.append(map(float, input().split()))
 
-i, j, k = map(float, input().split())
-B = Vector3(i, j, k)
+A, B, C, D = Vector3(*coords[0]), Vector3(*coords[1]), Vector3(*coords[2]), Vector3(*coords[3])
 
-i, j, k = map(float, input().split())
-C = Vector3(i, j, k)
-
-i, j, k = map(float, input().split())
-D = Vector3(i, j, k)
-
-AB = B - A
-BC = C - B
-CD = D - C
-
-X = Vector3.cross(AB, BC)
-Y = Vector3.cross(BC, CD)
+X = (B - A).cross(C - B)
+Y = (C - B).cross(D - C)
 
 print("{0:.2f}".format(Vector3.angle(X, Y)))
-
-    

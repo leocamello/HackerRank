@@ -18,18 +18,18 @@ class MyComplex:
         c = self.complex / other.complex
         return "{0:.2f}{1:+.2f}i".format(c.real, c.imag + 0)
 
-def mod(myComplex):
-    return "{0:.2f}{1:+.2f}i".format(abs(myComplex.complex), 0)
+    def mod(self):
+        return "{0:.2f}{1:+.2f}i".format(abs(self.complex), 0)
 
-A, B = map(float, input().split())
-C, D = map(float, input().split())
+C = map(float, input().split())
+D = map(float, input().split())
 
-E = MyComplex(complex(A, B))
-F = MyComplex(complex(C, D))
+X = MyComplex(complex(*C))
+Y = MyComplex(complex(*D))
 
-print (E + F)
-print (E - F)
-print (E * F)
-print (E / F)
-print (mod(E))
-print (mod(F))
+print (X + Y)
+print (X - Y)
+print (X * Y)
+print (X / Y)
+print (X.mod())
+print (Y.mod())

@@ -28,6 +28,7 @@ HackerRank Problems' Solutions
 - [Errors and Exceptions](./Domains/Python/Errors%20and%20Exceptions/README.md)
 - [Classes](./Domains/Python/Classes/README.md)
 - [Python Functionals](./Domains/Python/Python%20Functionals/README.md)
+- [Regex and Parsing](./Domains/Python/Regex%20and%20Parsing/README.md)
 
 ### Ruby
 

@@ -16,7 +16,8 @@ class MyHTMLParser(HTMLParser):
 
 html = str()
 for i in range(int(input())):
-    html += input()
+    html += input().rstrip() + '\n'
 
 parser = MyHTMLParser()
 parser.feed(html)
+parser.close()

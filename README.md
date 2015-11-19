@@ -30,7 +30,7 @@ HackerRank Problems' Solutions
 - [Python Functionals](./Domains/Python/Python%20Functionals/README.md)
 - [Regex and Parsing](./Domains/Python/Regex%20and%20Parsing/README.md)
 - [XML](./Domains/Python/XML/README.md)
-- [Closures and Decorators](./Domains/Python/Closures and Decorators/README.md)
+- [Closures and Decorators](./Domains/Python/Closures%20and%20Decorators/README.md)
 
 ### Ruby
 
@@ -39,6 +39,7 @@ HackerRank Problems' Solutions
 - [Arrays & Hashes](./Domains/Ruby/Arrays%20%26%20Hashes/README.md)
 - [Enumerables](./Domains/Ruby/Enumerables/README.md)
 - [Methods](./Domains/Ruby/Methods/README.md)
+- [Strings](./Domains/Ruby/Strings/README.md)
 
 ### C++
 

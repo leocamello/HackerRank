@@ -1,10 +1,15 @@
 numbers = list()
 
 for i in range(int(input())):
-    number = input()
-    ncount = len(number)
-    numbers.append("+91 " + number[ncount - 10 : ncount - 5] + " " + number[ncount - 5 : ncount])
+    numbers.append(input())
 
-for number in sorted(numbers):
-    print (number)
-    
+def mobile(function):
+    def input(numbers):
+        return sorted([function(number) for number in numbers])
+    return input
+
+@mobile
+def standardize(number):
+    return "+91" + " " + number[-10:-5] + " " + number[-5:]
+
+print (('\n').join(standardize(numbers)))

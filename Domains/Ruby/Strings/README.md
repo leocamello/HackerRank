@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Methods II](https://www.hackerrank.com/challenges/ruby-strings-methods-ii) | [Ruby](./Methods%20II/main.rb) | Easy |
 | [Methods I](https://www.hackerrank.com/challenges/ruby-strings-methods-i) | [Ruby](./Methods%20I/main.rb) | Easy |
 | [Iteration](https://www.hackerrank.com/challenges/ruby-strings-iteration) | [Ruby](./Iteration/main.rb) | Easy |
 | [Indexing](https://www.hackerrank.com/challenges/ruby-strings-indexing) | [Ruby](./Indexing/main.rb) | Easy |

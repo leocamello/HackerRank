@@ -9,4 +9,5 @@
 | [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number) | [Python](./Validating%20Roman%20Numerals/main.py) | Easy |
 | [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number) | [Python](./Validating%20phone%20numbers/main.py) | Easy |
 | [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | [Python](./Regex%20Substitution/main.py) | Moderate |
+| [re.split()](https://www.hackerrank.com/challenges/re-split) | [Python](./re.split()/main.py) | Easy |
 | [Introduction to re module](https://www.hackerrank.com/challenges/introduction-to-regex) | [Python](./Introduction%20to%20re%20module/main.py) | Easy |

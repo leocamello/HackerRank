@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Print Function](https://www.hackerrank.com/challenges/python-print) | [Python](./Print%20Function/main.py) | Easy |
 | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Python](./Finding%20the%20percentage/main.py) | Easy |
 | [Interchange two numbers](https://www.hackerrank.com/challenges/interchange-two-numbers) | [Python](./Interchange%20two%20numbers/main.py) | Easy |
 | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name) | [Python](./What's%20Your%20Name/main.py) | Easy |

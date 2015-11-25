@@ -3,6 +3,7 @@
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | [Python](./The%20Minion%20Game/main.py) | Moderate |
+| [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | [Python](./Alphabet%20Rangoli/main.py) | Easy |
 | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | [Python](./String%20Formatting/main.py) | Easy |
 | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | [Python](./Designer%20Door%20Mat/main.py) | Easy |
 | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | [Python](./Text%20Wrap/main.py) | Easy |

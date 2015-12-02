@@ -9,6 +9,7 @@
 | [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number) | [Python](./Validating%20Roman%20Numerals/main.py) | Easy |
 | [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number) | [Python](./Validating%20phone%20numbers/main.py) | Easy |
 | [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | [Python](./Regex%20Substitution/main.py) | Moderate |
+| [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end) | [Python](./Re.start()%20&%20Re.end()/main.py) | Easy |
 | [re.findall() & re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer) | [Python](./re.findall()%20&%20re.finditer()/main.py) | Easy |
 | [group(), groups() & groupdict()](https://www.hackerrank.com/challenges/re-group-groups) | [Python](./group(),%20groups()%20&%20groupdict()/main.py) | Easy |
 | [re.split()](https://www.hackerrank.com/challenges/re-split) | [Python](./re.split()/main.py) | Easy |

@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint) | [Python](./Floor,%20Ceil%20and%20Rint/main.py) | Easy |
 | [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics) | [Python](./Array%20Mathematics/main.py) | Easy |
 | [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity) | [Python](./Eye%20and%20Identity/main.py) | Easy |
 | [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones) | [Python](./Zeros%20and%20Ones/main.py) | Easy |

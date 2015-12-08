@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod) | [Python](./Sum%20and%20Prod/main.py) | Easy |
 | [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint) | [Python](./Floor,%20Ceil%20and%20Rint/main.py) | Easy |
 | [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics) | [Python](./Array%20Mathematics/main.py) | Easy |
 | [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity) | [Python](./Eye%20and%20Identity/main.py) | Easy |

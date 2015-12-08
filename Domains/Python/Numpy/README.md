@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Mean, Var and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std) | [Python](./Mean,%20Var%20and%20Std/main.py) | Easy |
 | [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max) | [Python](./Min%20and%20Max/main.py) | Easy |
 | [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod) | [Python](./Sum%20and%20Prod/main.py) | Easy |
 | [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint) | [Python](./Floor,%20Ceil%20and%20Rint/main.py) | Easy |

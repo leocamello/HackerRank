@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra) | [Python](./Linear%20Algebra/main.py) | Easy |
 | [Polynomials](https://www.hackerrank.com/challenges/np-polynomials) | [Python](./Polynomials/main.py) | Easy |
 | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | [Python](./Inner%20and%20Outer/main.py) | Easy |
 | [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross) | [Python](./Dot%20and%20Cross/main.py) | Easy |

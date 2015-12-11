@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [C++](./Simple Array Sum/main.cpp) | Easy |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Python 3](./Simple Array Sum/main.py) | Easy |
 | [Solve me Second](https://www.hackerrank.com/challenges/solve-me-second) | [C#](./Solve%20Me%20Second/main.cs) | Easy |
 | [Solve me Second](https://www.hackerrank.com/challenges/solve-me-second) | [C++](./Solve%20Me%20Second/main.cpp) | Easy |

@@ -8,6 +8,10 @@ HackerRank Problems' Solutions
 - [Implementation](./Domains/Algorithms/Implementation/README.md)
 - [Bit Manipulation](./Domains/Algorithms/Bit%20Manipulation/README.md)
 
+### Data Structures
+
+- [Arrays](./Domains/Data%20Structures/Arrays/README.md)
+
 ### Mathematics
 
 - [Fundamentals](./Domains/Mathematics/Fundamentals/README.md)

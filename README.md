@@ -11,6 +11,7 @@ HackerRank Problems' Solutions
 ### Data Structures
 
 - [Arrays](./Domains/Data%20Structures/Arrays/README.md)
+- [Linked Lists](./Domains/Data%20Structures/Linked%20Lists/README.md)
 
 ### Mathematics
 

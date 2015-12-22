@@ -14,9 +14,10 @@ using namespace std;
 
 void ReversePrint(Node *head)
 {
-    if (head->next != NULL) {
-        ReversePrint(head->next);
+    if (head != NULL) {
+        if (head->next != NULL) {
+            ReversePrint(head->next);
+        }
+        cout << head->data << endl;
     }
-
-    cout << head->data << endl;
 }

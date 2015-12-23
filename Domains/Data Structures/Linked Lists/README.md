@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail) | [C++](./Get%20Node%20Value/main.cpp) | Easy |
 | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists) | [C++](./Merge%20two%20sorted%20linked%20lists/main.cpp) | Easy |
 | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists) | [C++](./Compare%20two%20linked%20lists/main.cpp) | Easy |
 | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list) | [C++](./Reverse%20a%20linked%20list/main.cpp) | Easy |

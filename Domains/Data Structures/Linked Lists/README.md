@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) | [C++](./Delete%20duplicate-value%20nodes%20from%20a%20sorted%20linked%20list/main.cpp) | Easy |
 | [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail) | [C++](./Get%20Node%20Value/main.cpp) | Easy |
 | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists) | [C++](./Merge%20two%20sorted%20linked%20lists/main.cpp) | Easy |
 | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists) | [C++](./Compare%20two%20linked%20lists/main.cpp) | Easy |

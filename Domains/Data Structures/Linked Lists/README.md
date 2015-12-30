@@ -2,6 +2,9 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) | [C++](./Reverse%20a%20doubly%20linked%20list/main.cpp) | Easy |
+| [Insert a node into a sorted doubly linked list](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list) | [C++](./Insert%20a%20node%20into%20a%20sorted%20doubly%20linked%20list/main.cpp) | Easy |
+| [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) | [C++](./Find%20Merge%20Point%20of%20Two%20Lists/main.cpp) | Easy |
 | [Detect Cycle](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle) | [C++](./Detect%20Cycle/main.cpp) | Easy |
 | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) | [C++](./Delete%20duplicate-value%20nodes%20from%20a%20sorted%20linked%20list/main.cpp) | Easy |
 | [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail) | [C++](./Get%20Node%20Value/main.cpp) | Easy |

@@ -8,26 +8,34 @@
    }
 */
 
-int FindMergeNode(Node *headA, Node *headB, Node *firstB)
+int FindMergeNode(Node *headA, Node *headB, Node *tempA, Node *tempB)
 {
-    if (firstB == NULL) {
-        firstB = headB;
-    }
-
-    if (headA != NULL && headB != NULL) {
-        if (headA == headB) {
-            return headA->data;
-        } else {
-            return FindMergeNode(headA, headB->next, firstB);
+    if (tempA != tempB)
+    {
+        if (tempA->next == NULL && tempB == NULL)
+        {
+            return FindMergeNode(headA, headB, headB, headA);
         }
-    } else if (headB == NULL) {
-        return FindMergeNode(headA->next, firstB, firstB);
-    } else {
-        return -1;
+        else if (tempA->next == NULL)
+        {
+            return FindMergeNode(headA, headB, headB, tempB->next);
+        }
+        else if (tempB->next == NULL)
+        {
+            return FindMergeNode(headA, headB, tempA->next, headA);
+        }
+        else
+        {
+            return FindMergeNode(headA, headB, tempA->next, tempB->next);
+        }
+    }
+    else
+    {
+        return tempA->data;
     }
 }
 
 int FindMergeNode(Node *headA, Node *headB)
 {
-    return FindMergeNode(headA, headB, NULL);
+    return FindMergeNode(headA, headB, headA, headB);
 }

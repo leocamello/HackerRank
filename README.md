@@ -19,6 +19,10 @@ HackerRank Problems' Solutions
 - [Number Theory](./Domains/Mathematics/Number%20Theory/README.md)
 - [Geometry](./Domains/Mathematics/Geometry/README.md)
 
+### Linux Shell
+
+- [Bash](./Domains/Linux%20Shell/Bash/README.md)
+
 ### Python
 - [Introduction](./Domains/Python/Introduction/README.md)
 - [Data Types](./Domains/Python/Data%20Types/README.md)

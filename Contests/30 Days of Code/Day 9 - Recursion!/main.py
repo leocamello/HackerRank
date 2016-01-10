@@ -4,4 +4,5 @@ def find_gcd(a, b):
     else:
         return a
 
-print (find_gcd(map(int, input().split())))
+a, b = map(int, input().split())
+print (find_gcd(a, b))

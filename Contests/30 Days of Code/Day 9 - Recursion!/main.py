@@ -1,6 +1,6 @@
 def find_gcd(a, b):
-    if a != b:
-        return find_gcd(max(a, b) - min(a, b), min(a, b))
+    if b != 0:
+        return find_gcd(b, a % b)
     else:
         return a
 

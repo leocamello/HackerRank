@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers) | [Bash](./Comparing%20Numbers/main.sh) | Easy |
 | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers) | [Bash](./The%20World%20of%20Numbers/main.sh) | Easy |
 | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers) | [Bash](./Looping%20with%20Numbers/main.sh) | Easy |
 | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo) | [Bash](./A%20Personalized%20Echo/main.sh) | Easy |

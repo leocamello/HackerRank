@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals) | [Bash](./Getting%20started%20with%20conditionals/main.sh) | Easy |
 | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers) | [Bash](./Comparing%20Numbers/main.sh) | Easy |
 | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers) | [Bash](./The%20World%20of%20Numbers/main.sh) | Easy |
 | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers) | [Bash](./Looping%20with%20Numbers/main.sh) | Easy |

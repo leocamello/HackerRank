@@ -11,7 +11,7 @@ class Node:
 class Solution:
 
     def insert(self, root, data):
-        if root == None:
+        if root is None:
             return Node(data)
         else:
             cur = Node(data)
@@ -25,12 +25,12 @@ class Solution:
 
     def getHeight(self, root):
         height = 1
-        if root.right != None and root.left != None:
+        if root.right is not None and root.left is not None:
             height += max(self.getHeight(root.left),
                           self.getHeight(root.right))
-        elif root.right != None:
+        elif root.right is not None:
             height += self.getHeight(root.right)
-        elif root.left != None:
+        elif root.left is not None:
             height += self.getHeight(root.left)
         return height
 

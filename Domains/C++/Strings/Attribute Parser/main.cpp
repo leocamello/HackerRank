@@ -34,14 +34,13 @@ class HrmlElement
     {
         _tagName = tagName;
         _attributes = attributes;
-        _parent = nullptr;
     }
 
-    ~HrmlElement() { _parent = nullptr; }
+    ~HrmlElement() {}
 
     const string getTagName() const { return _tagName; }
 
-    shared_ptr<HrmlElement> getParent() const { return _parent; }
+    shared_ptr<HrmlElement> getParent() const { return _parent.lock(); }
     void setParent(shared_ptr<HrmlElement> parent) { _parent = parent; }
 
     void addChild(shared_ptr<HrmlElement> child) { _children.push_back(child); }
@@ -51,7 +50,7 @@ class HrmlElement
 
   private:
     string _tagName;
-    shared_ptr<HrmlElement> _parent;
+    weak_ptr<HrmlElement> _parent;
     vector<shared_ptr<HrmlElement>> _children;
     vector<HrmlAttribute> _attributes;
 };
@@ -62,12 +61,10 @@ string getName(string& line)
     auto space_pos = line.find(' ');
     space_pos = space_pos == string::npos ? line.size() : space_pos;
     string tag_name = line.substr(0, space_pos);
-    //   cout << "TagName: " << tag_name << endl;
 
     // Remove tag name
     auto first_pos = space_pos == line.size() ? space_pos : space_pos + 1;
     line = line.substr(first_pos, line.size() - space_pos);
-    //   cout << "Line after TagName: " << line << endl;
 
     return tag_name;
 }
@@ -77,12 +74,10 @@ HrmlAttribute getAttribute(string& line)
     // Get attribute name
     auto space_pos = line.find(' ');
     string attr_name = line.substr(0, space_pos);
-    //   cout << "AttrName: " << attr_name << endl;
 
     // Remove attribute name
     auto first_pos = space_pos + 1;
     line = line.substr(first_pos, line.size() - space_pos);
-    //   cout << "Line after AttrName: " << line << endl;
 
     // Get and remove equal sign
     space_pos = line.find(' ');
@@ -94,14 +89,11 @@ HrmlAttribute getAttribute(string& line)
     space_pos = line.find(' ');
     space_pos = space_pos == string::npos ? line.size() : space_pos;
     string attr_value = line.substr(0, space_pos);
-    //   cout << "AttrValue: " << attr_value << endl;
     attr_value = attr_value.substr(1, attr_value.size() - 2);
-    //   cout << "AttrValue: " << attr_value << endl;
 
     // Remove attribute value
     first_pos = space_pos == line.size() ? space_pos : space_pos + 1;
     line = line.substr(first_pos, line.size() - space_pos);
-    //   cout << "Line after AttrValue: " << line << endl;
 
     return HrmlAttribute(attr_name, attr_value);
 }

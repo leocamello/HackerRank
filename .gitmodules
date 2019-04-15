@@ -1,0 +1,3 @@
+[submodule "Domains/C++/Strings/Attribute Parser/third_party/googletest"]
+	path = Domains/C++/Strings/Attribute Parser/third_party/googletest
+	url = git@github.com:google/googletest.git

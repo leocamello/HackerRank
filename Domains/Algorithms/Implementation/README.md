@@ -2,6 +2,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | [C++](./Kangaroo/main.cpp) | Easy |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [C++](./Angry%20Professor/main.cpp) | Easy |
 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | [C++](./Cavity%20Map/main.cpp) | Easy |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | [C++](./Cut%20the%20sticks/main.cpp) | Easy |

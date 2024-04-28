@@ -1,0 +1,101 @@
+100
+2 flpn
+3 p
+1 tr 25
+3 pgbv
+1 tr 85
+1 yzf 87
+2 p
+1 qp 80
+3 flpn
+2 flpn
+2 p
+2 flpn
+1 yzf 29
+1 qp 16
+1 pgbv 82
+1 tr 51
+3 flpn
+2 p
+1 qp 21
+2 pgbv
+1 n 78
+1 pgbv 45
+3 flpn
+1 qp 85
+3 yzf
+1 n 65
+1 yzf 88
+2 p
+1 yzf 47
+3 flpn
+3 qp
+2 qp
+2 p
+3 flpn
+3 yzf
+3 flpn
+2 flpn
+3 p
+2 pgbv
+2 n
+3 qp
+3 yzf
+1 yzf 26
+1 n 18
+2 yzf
+2 p
+1 n 38
+3 flpn
+1 yzf 72
+1 yzf 8
+2 flpn
+3 p
+2 qp
+1 n 69
+3 p
+1 pgbv 59
+1 qp 64
+1 pgbv 67
+2 p
+1 n 7
+1 qp 45
+1 qp 15
+1 n 28
+3 p
+2 flpn
+1 pgbv 91
+1 yzf 50
+2 p
+3 n
+3 n
+1 qp 60
+2 p
+2 p
+1 yzf 50
+1 n 83
+2 p
+2 yzf
+2 pgbv
+3 flpn
+2 flpn
+2 p
+1 yzf 81
+3 flpn
+1 tr 94
+1 pgbv 64
+3 p
+1 n 58
+3 p
+2 n
+3 p
+3 p
+3 yzf
+3 yzf
+1 n 29
+2 flpn
+2 p
+1 qp 2
+2 p
+3 qp
+2 qp

@@ -58,3 +58,4 @@ HackerRank Problems' Solutions
 - [Classes](./Domains/C++/Classes/README.md)
 - [STL](./Domains/C++/STL/README.md)
 - [Inheritance](./Domains/C++/Inheritance/README.md)
+- [Other Concepts](./Domains/C++/Other%20Concepts/README.md)

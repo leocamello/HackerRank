@@ -3,7 +3,6 @@
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays) | [C++](./Variable%20Sized%20Arrays/main.cpp) | Easy |
-| [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading) | [C++](./Operator%20Overloading/main.cpp) | Moderate |
 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | [C++](./Arrays%20Introduction/main.cpp) | Easy |
 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | [C++](./Pointer/main.cpp) | Easy |
 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | [C++](./Functions/main.cpp) | Easy |
